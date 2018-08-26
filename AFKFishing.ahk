@@ -14,7 +14,7 @@ else
 {
 ControlClick,, Minecraft,, right,, U
 }
-
+return
 
 *F12::
 AutoRestart := !AutoRestart
@@ -26,6 +26,7 @@ else
 {
 SetTimer, AutoRestartTimer, Off
 }
+return
 
 AutoRestartTimer:
 ImageSearch, FoundX, FoundY, 0, 0, A_ScreenWidth, A_ScreenHeight, back.png
@@ -47,3 +48,4 @@ ControlClick,, Minecraft,, right,, D
 AfkToggle = 1
 SetTimer, AutoRestartTimer, On
 }
+return
