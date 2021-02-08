@@ -2,7 +2,7 @@
 AutoHotKey script for Minecraft AFK autofishing
 
 This is not a autofishing "Bot". You have to setup farm like [this](https://www.youtube.com/watch?v=hTAHK2XnpQs) to use this script.\
-This script is for remove hassle like putting sth on keyboard to maintain press, or even unablility to use computer while fishing.\
+This script is for remove hassle like putting sth to maintain keypress, or even unablility to use computer while fishing.\
 You can even play [Heroes of the storm](https://heroesofthestorm.com/) while fishing! SIGONG JOA!
 
 Dependency
